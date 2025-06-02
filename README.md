@@ -1,7 +1,7 @@
 # Cancer Mortality & Prevalence 1990-2019 Analysis
 Quantifying 30 years of global trends in **cancer mortality** and **prevalence**
 
----
+
 
 ## Overview
 This repository contains the full, reproducible workflow for the manuscript  
